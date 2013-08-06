@@ -34,6 +34,7 @@
         android:layout_width="0dip"
         android:layout_weight="1"
         android:orientation="vertical"
+        android:background="@color/account_container"
         style="?android:attr/spinnerStyle">
 
         <TextView

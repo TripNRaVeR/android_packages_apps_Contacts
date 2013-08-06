@@ -37,7 +37,7 @@
     <color name="detail_tab_carousel_tab_label_color">#EEEEEE</color>
 
     <!-- Color of the background of the action bar -->
-    <color name="action_bar_background">#e6e6e6</color>
+    <color name="action_bar_background">@android:color/transparent</color>
 
     <!-- Color of the background of the action bar when highlighted (ie. pressed, focused) -->
     <color name="action_bar_background_highlight">#cecece</color>
@@ -49,7 +49,7 @@
     <color name="stream_item_stripe_color">#CCCCCC</color>
 
     <!-- New Colors for Theme Chooser to be compatible -->
-    <color name="account_container">#eeeeee</color>
+    <color name="account_container">@android:color/transparent</color>
     <color name="call_detail_photo_bg">#7f000000</color>
     <color name="call_log_divider">#55ffffff</color>
     <color name="detail_tab_carousel_tab_label_background_color">#7f000000</color>

@@ -36,7 +36,7 @@
         android:layout_width="0dip"
         android:layout_weight="1"
         android:orientation="vertical"
-        android:background="?android:attr/selectableItemBackground">
+        android:background="@color/account_container">
 
         <TextView
             android:id="@+id/account_type"
