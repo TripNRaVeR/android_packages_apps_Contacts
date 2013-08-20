@@ -24,7 +24,7 @@
     android:paddingStart="50dip"
     android:paddingEnd="100dip"
     android:orientation="horizontal"
-    android:background="@drawable/transparent50">
+    android:background="@drawable/background_holo_dark">
 
     <LinearLayout
         android:layout_width="0dip"
